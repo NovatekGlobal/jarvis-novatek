@@ -1,5 +1,5 @@
 {
-  "name": "jarvis-vite-novatek",
+  "name": "jarvis-novatek",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
